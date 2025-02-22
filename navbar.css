@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    background-color: #092327;
+}
+
+p {
+    color: #4e8098;
+}
+
+h1 {
+    color: #4e8098;
+    
+}
+
+main {
+    margin: 20px;
+ 
+    width: 100% !important;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+
+}
+
+.navbar a {
+    background-color: #4e81982d;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+   transition:ease-in background 0.5s;
+  transition: ease-in padding 0.5s;
+    
+}
+
+
+.navbar a:hover {
+   padding: 40;
+    background: #018684;
+   
+}
+
+.navbar li {
+    float:left;
+    
+
+}
+
+p {
+    text-align: center;
+}

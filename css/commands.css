@@ -1,0 +1,34 @@
+.ct{
+display: flex;
+border: 10px solid black;
+height: 90vh;
+flex-wrap: wrap;
+gap: 1em;
+align-content: flex-start;
+
+
+}
+.box {
+    width: 150px;
+    height: 150px;
+font-size:  2em;
+border-radius: 20px;
+}
+
+#box1 {
+    background-color: red
+}
+#box1 :hover{
+    background-color: blue;
+}
+
+#box2 {
+    background-color: yellow
+}
+#box3 {
+    background-color: green;
+}
+#box4 {
+    background-color: purple;
+}
+
